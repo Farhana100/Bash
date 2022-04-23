@@ -15,5 +15,5 @@ Name of the root directory (with lots of files and sub-directories) and another 
 8. Create a .csv file containing two columns, namely file type, and number of files. Fill this out after organizing all the files
 
 ## Output
-● An output directory where all the files are organized as mentioned above
-● A .csv file
+* An output directory where all the files are organized as mentioned above
+* A .csv file
